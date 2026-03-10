@@ -1775,14 +1775,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                   "px-6 py-2 rounded-full bg-white/10 backdrop-blur-xl border border-white/20 text-white font-bold text-lg shadow-lg",
                 children: ["Your clicks: ", e.toLocaleString()],
               }),
-              (0, r.jsxs)("div", {
-                className:
-                  "px-6 py-2 rounded-full bg-white/10 backdrop-blur-xl border border-white/20 text-white font-bold text-lg shadow-lg",
-                children: [
-                  "Global clicks: ",
-                  (p?.clicks || 0).toLocaleString(),
-                ],
-              }),
+              
             ],
           }),
           (0, r.jsx)("button", {
