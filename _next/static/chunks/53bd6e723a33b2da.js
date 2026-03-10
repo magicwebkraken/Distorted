@@ -1724,7 +1724,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                 "flex items-center gap-3 p-1.5 rounded-2xl bg-white/10 backdrop-blur-2xl border border-white/20 shadow-[0_8px_32px_rgba(0,0,0,0.3),inset_0_1px_0_rgba(255,255,255,0.2)]",
               children: [
                 (0, r.jsxs)("a", {
-                  href: "https://x.com/i/communities/2031119771106754583",
+                  href: "https://x.com/DistortedFace_X",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
